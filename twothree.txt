@@ -2,7 +2,10 @@ this is example
 
 
 this is bad example
+<<<<<<< master
 
 this is good example
 
 this is goodd example-11
+=======
+>>>>>>> a8e13a5 another person commited
