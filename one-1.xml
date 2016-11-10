@@ -2,11 +2,25 @@
 
 teowowowowowowowowowowowowo
 
+llll
+
+sssss
+kjfdsjfdjfjfd  -- ithink revert
+<?xml version="1.0" encoding="UTF-8"?>
+
+<<<<<<< Upstream, based on master
+teowowowowowowowowowowowowo
+
+
 
 
 
 
 kjfdsjfdjfjfd  -- ithink revert
+=======
+
+kjfdsjfdjfjfd  -- ithink revert
 
 
-trying for sqash to git - 222222222
+trying for sqash
+>>>>>>> ba10180 for squashing
